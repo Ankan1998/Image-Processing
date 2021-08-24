@@ -20,7 +20,8 @@ Later, in this repo building block of different deep learning technique will als
 * [x] Binarization
 * [x] Morph_Transform
 * [x] Sharpen
+* [x] Selective Search for ROI
 * [ ] Affine Transformation
 * [ ] Homography Registration
-* [ ] Thresholding
-* [ ] Hough Transform
+* [x] Thresholding
+* [x] Hough Transform
